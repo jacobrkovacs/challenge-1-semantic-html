@@ -1,10 +1,10 @@
-# challenge-1-semantic-html
+# Challenge 1: Semantic HTML
 An example of semantic HTML
 
 ## Description
 This project was done to understand the importance of HTML semantics and css optimization. <br>
 I was given a webpage that needed HTML elements to be updated to be more semantically correct as well as a CSS stylesheet that need optimization.<br>
-The content of the webpage decribes the importance of search engine optimization which I will be practicing on the remainder of the project in this course.
+The content of the webpage decribes the importance of search engine optimization which I will be practicing on the remainder of the projects in this course.
 
 ## Table of Contents
 -[Installation](#installation)<br>
