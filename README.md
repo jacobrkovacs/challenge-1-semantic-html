@@ -2,7 +2,7 @@
 An example of semantic HTML
 
 ## Description
-This project was done to understand the importance of HTML semantics and css optimization. <br>
+This project was done to understand the importance of HTML semantics and CSS optimization. <br>
 I was given a webpage that needed HTML elements to be updated to be more semantically correct as well as a CSS stylesheet that need optimization.<br>
 The content of the webpage decribes the importance of search engine optimization which I will be practicing on the remainder of the projects in this course.
 
