@@ -68,7 +68,7 @@ figure {
     float: right;
     margin-left: 25px;
 }
-
+/* Condensed all sections within the .content class into '.content section' and used that as the selector instead of having seperate classes for each element. */
 .content {
     width: 75%;
     display: inline-block;
@@ -92,7 +92,7 @@ figure {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* similar to the .content section, I condensed the benefits section to not have individual classes in each seciton. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
