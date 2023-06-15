@@ -17,7 +17,9 @@ No installation required.
 
 ## Usage
 -Practice with HTML Semantics and CSS optimization<br>
--Use as a benchmark for future projects to see where I'm at and how I have improved.
+-Practice with SEO<Br>
+-Use as a benchmark for future projects to see where I'm at and how I have improved
+
 
 ## Credits
 N/A

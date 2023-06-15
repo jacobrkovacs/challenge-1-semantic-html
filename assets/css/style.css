@@ -1,3 +1,4 @@
+/* All selectors have been updated to match the changes to the html tags/classes */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -68,7 +69,7 @@ figure {
     float: right;
     margin-left: 25px;
 }
-/* Condensed all sections within the .content class into '.content section' and used that as the selector instead of having seperate classes for each element. */
+/* Condensed all sections within the .content class into '.content' and '.content section' and used that as the selector instead of having seperate classes for each element as well as removed the need for repeat properties */
 .content {
     width: 75%;
     display: inline-block;
@@ -92,7 +93,7 @@ figure {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* similar to the .content section, I condensed the benefits section to not have individual classes in each seciton. */
+/* Similar to the .content section, I condensed the benefits section to not have individual classes in each section. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
